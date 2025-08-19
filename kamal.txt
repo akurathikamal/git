@@ -9,3 +9,6 @@ i am see why -u is needed
 
 
 this is for push
+
+
+i am using pull
